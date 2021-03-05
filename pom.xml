@@ -10,12 +10,6 @@
   <name>vertx-pac4j FOLIO fork, Vert.x 4</name>
   <url>https://github.com/folio-org</url>
 
-  <parent>
-    <groupId>org.sonatype.oss</groupId>
-    <artifactId>oss-parent</artifactId>
-    <version>7</version>
-  </parent>
-
   <scm>
     <url>https://github.com/folio-org/vertx-pac4j.git</url>
     <connection>scm:git:git@github.com:folio-org/vertx-pac4j.git</connection>
