@@ -1,6 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
+  <!-- fork of https://github.com/pac4j/vertx-pac4j for using Vert.x 4 -->
   <groupId>org.pac4j</groupId>
   <artifactId>vertx-pac4j</artifactId>
   <version>5.0.2-SNAPSHOT</version>
@@ -16,9 +17,9 @@
   </parent>
 
   <scm>
-    <url>https://github.com/pac4j/vertx-pac4j.git</url>
-    <connection>scm:git:git@github.com:pac4j/vertx-pac4j.git</connection>
-    <developerConnection>scm:git:git@github.com:pac4j/vertx-pac4j.git</developerConnection>
+    <url>https://github.com/folio-org/vertx-pac4j.git</url>
+    <connection>scm:git:git@github.com:folio-org/vertx-pac4j.git</connection>
+    <developerConnection>scm:git:git@github.com:folio-org/vertx-pac4j.git</developerConnection>
   </scm>
 
   <properties>
